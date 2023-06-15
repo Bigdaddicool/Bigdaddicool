@@ -12,3 +12,12 @@ Sherlock: Find Usernames Across Social Networks (Version 0.14.2)
 
 positional arguments:    One username to check with social networks.
   Yen Griffiths.          Check similar usernames using Yen Griffiths across sociL media
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --version             Display version information and dependencies.
+  --verbose, -v, -d, --debug
+Display extra debugging information and metrics.
+  --folderoutput FOLDEROUTPUT, -fo FOLDEROUTPUT
+                        If using multiple usernames, the output of the results will be
+                        saved to this folder.
