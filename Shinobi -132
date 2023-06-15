@@ -21,3 +21,8 @@ Display extra debugging information and metrics.
   --folderoutput FOLDEROUTPUT, -fo FOLDEROUTPUT
                         If using multiple usernames, the output of the results will be
                         saved to this folder.
+ --output OUTPUT, -o OUTPUT
+                        If using single username, the output of the result will be saved
+                        to this file.
+  --tor, -t             Make requests over Tor; increases runtime; requires Tor to be
+                        installed and in system path
