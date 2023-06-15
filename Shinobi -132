@@ -1,0 +1,9 @@
+the source- help
+git clone https://github.com/sherlock-project/sherlock.git
+usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
+                [--output OUTPUT] [--tor] [--unique-tor] [--csv]
+                [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE]
+                [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color]
+                [--browse] [--local] [--nsfw]
+                USERNAMES [Yen Griffiths ...]
+ python3 -m pip install -r requirements.txt
