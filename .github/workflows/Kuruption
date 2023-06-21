@@ -24,7 +24,7 @@ on:
 permissions:
   contents: read
 
-jobs:
+jobs: ghost catcher
   snyk:
     permissions:
       contents: read # for actions/checkout to fetch code
